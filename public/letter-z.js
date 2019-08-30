@@ -3,8 +3,8 @@ import { html, render } from "https://unpkg.com/lit-html?module";
 const htmlTemplate = () => html`
   <style>
     .letter {
-      background-color: #00FFF8;
-      color: #22002B;
+      background-color: #00fff8;
+      color: #22002b;
       font-size: 1.6rem;
       line-height: 3rem;
       width: 3rem;
