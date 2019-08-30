@@ -10,13 +10,13 @@ const htmlTemplate = () => html`
     }
     @keyframes rotateX {
       0% {
-        transform: rotate(0deg);
+        transform: rotate(0deg) scale(0,0);
       }
       50% {
-        transform: rotate(65deg);
+        transform: rotate(65deg) scale(0.9,0.8);
       }
       100% {
-        transform: rotate(0deg);
+        transform: rotate(0deg) scale(0,0);
       }
     }
   </style>
