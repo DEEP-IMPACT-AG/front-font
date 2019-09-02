@@ -1,8 +1,5 @@
 import { html, render } from "https://unpkg.com/lit-html?module";
 
-// greetings from Marc
-// deepimpact@mail.iten.info
-
 const htmlTemplate = () => html`
   <style>
     .letter {
